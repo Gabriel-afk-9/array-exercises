@@ -14,19 +14,14 @@ Os exercícios envolvem:
 - Operações matemáticas e indexação de vetores
 
 ## 🗂️ Estrutura do projeto
-
+```plaintext
 array-exercises/
 ├── exer01.py
 ├── exer02.py
 ├── exer03.py
 └── ...
-
-Cada arquivo `.py` corresponde a um exercício individual, com a lógica isolada e facilmente testável.
-
+```
 ## ▶️ Como executar
-
-Instale o [Python](https://www.python.org/) (recomendo versão 3.10 ou superior).
-
 ```bash
 # Clone o repositório:
 git clone https://github.com/Gabriel-afk-9/array-exercises.git
