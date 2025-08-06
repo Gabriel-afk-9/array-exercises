@@ -28,7 +28,6 @@ Cada arquivo `.py` corresponde a um exercício individual, com a lógica isolada
 1. Instale o [Python](https://www.python.org/) (recomendo versão 3.10 ou superior).
 2. Clone o repositório:
 
-bash
 `git clone https://github.com/Gabriel-afk-9/array-exercises.git
 cd array-exercises`
 
