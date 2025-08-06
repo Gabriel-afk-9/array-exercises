@@ -35,4 +35,4 @@ git clone https://github.com/Gabriel-afk-9/array-exercises.git
 cd array-exercises
 
 # Execute o arquivo desejado:
-python exercicio1.py
+python exer01.py
