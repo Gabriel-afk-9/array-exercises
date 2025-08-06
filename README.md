@@ -25,13 +25,14 @@ Cada arquivo `.py` corresponde a um exercício individual, com a lógica isolada
 
 ## ▶️ Como executar
 
-1. Instale o [Python](https://www.python.org/) (recomendo versão 3.10 ou superior).
-2. Clone o repositório:
+Instale o [Python](https://www.python.org/) (recomendo versão 3.10 ou superior).
 
-`git clone https://github.com/Gabriel-afk-9/array-exercises.git
-cd array-exercises`
+```bash
+# Clone o repositório:
+git clone https://github.com/Gabriel-afk-9/array-exercises.git
 
-3. Execute um dos exercícios:
+# Acesse a pasta:
+cd array-exercises
+
+# Execute o arquivo desejado:
 python exercicio1.py
-
-
